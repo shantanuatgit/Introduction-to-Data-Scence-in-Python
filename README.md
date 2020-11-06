@@ -1,1 +1,1 @@
-# Introduction-to-Data-Scence-in-Python
+# All the assignments in Introduction-to-Data-Scence-in-Python
